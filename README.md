@@ -1,4 +1,4 @@
-# Bayes-Dice-GUI
+# AI Dice Predictor (Bayes' Theorem)
 A Java GUI that guesses how many sides the die that you're rolling has.
 
 The user chooses to roll either a 4-sided, 6-sided, 8-sided, 12-sided, or 20-sided die.
